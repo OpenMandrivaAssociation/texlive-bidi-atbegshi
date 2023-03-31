@@ -1,6 +1,6 @@
 Name:		texlive-bidi-atbegshi
 Version:	62009
-Release:	1
+Release:	2
 Summary:	Bidi-aware shipout macros
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bidi-atbegshi
