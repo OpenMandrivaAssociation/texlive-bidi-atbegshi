@@ -3,7 +3,7 @@ Version:	62009
 Release:	2
 Summary:	Bidi-aware shipout macros
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bidi-atbegshi
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bidi-atbegshi
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bidi-atbegshi.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bidi-atbegshi.doc.r%{version}.tar.xz
